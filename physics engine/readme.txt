@@ -9,7 +9,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/game-name.git
+git clone [enter the url]
 Compile the source code.
 
 css
