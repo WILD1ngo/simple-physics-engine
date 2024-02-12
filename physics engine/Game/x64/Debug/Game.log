@@ -1,0 +1,13 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'd:\c program\c++\visual studio\game\x64\debug\game.exe' is denied.
+  app.cpp
+  items.cpp
+D:\C program\c++\visual studio\Game\Game\items.cpp(5,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C program\c++\visual studio\Game\Game\items.cpp(15,63): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C program\c++\visual studio\Game\Game\items.cpp(15,70): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C program\c++\visual studio\Game\Game\items.cpp(15,97): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C program\c++\visual studio\Game\Game\items.cpp(52,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C program\c++\visual studio\Game\Game\items.cpp(52,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Scene.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'D:\C program\c++\visual studio\Game\x64\Debug\Game.exe'

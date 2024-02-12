@@ -1,0 +1,12 @@
+﻿  Scene.cpp
+D:\C program\c++\visual studio\Game\Game\Scene.h(12,8): error C2143: syntax error: missing ';' before '<'
+D:\C program\c++\visual studio\Game\Game\Scene.h(12,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C program\c++\visual studio\Game\Game\Scene.h(13,1): error C2143: syntax error: missing ';' before '}'
+D:\C program\c++\visual studio\Game\Game\Scene.h(13,1): error C2238: unexpected token(s) preceding ';'
+  items.cpp
+D:\C program\c++\visual studio\Game\Game\items.cpp(5,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C program\c++\visual studio\Game\Game\items.cpp(20,97): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C program\c++\visual studio\Game\Game\items.cpp(20,62): error C2614: 'Ball': illegal member initialization: 'x' is not a base or member
+D:\C program\c++\visual studio\Game\Game\items.cpp(20,69): error C2614: 'Ball': illegal member initialization: 'y' is not a base or member
+D:\C program\c++\visual studio\Game\Game\items.cpp(57,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C program\c++\visual studio\Game\Game\items.cpp(57,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data

@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\C program\c++\visual studio\Game\Game\main.cpp(36,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.obj : error LNK2019: unresolved external symbol _InitWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _CloseWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _WindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _ClearBackground referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _BeginDrawing referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _EndDrawing referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _SetTargetFPS referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _DrawCircle referenced in function _main
+D:\C program\c++\visual studio\Game\lib\raylib.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\C program\c++\visual studio\Game\Debug\Game.exe : fatal error LNK1120: 8 unresolved externals
